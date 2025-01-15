@@ -1,0 +1,4 @@
+.card {
+  max-height: calc(calc(100vh - (70px + 80px) - 140px));
+  overflow-y: auto;
+}

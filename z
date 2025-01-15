@@ -1,0 +1,73 @@
+rename card => done
+rename board => done
+dragging card bug
+animation card rotate is dragging => done
+middleware login => done
+xoá description của board => done
+workspace with member => done
+isStared board => done
+delete board => done
+message UI => done
+notification UI => done
+update UI boardBar (update button)
+show real member in board/id page => done 
+invite member (show up modal invite member by email) => done
+recent, starred, workspace UI => done
+comfirm accept invite member from notification => done
+detail profile UI => done
+404 page => done
+progress bar => done
+detail profile api => done
+recent, starred, workspace api => done
+notification api => done
+stared board (state) => done
+notification invite member => done
+add workspace when accept invite member => done
+delete board => done
+delete member from board => done
+comfirm accept invite member from notification and add workspace => done
+click in user member => show all member of board in modal => done
+click in user member => show all member of board in modal api => done
+comfirm accept invite member from email (when user dont login store link and redirect to login page) => done
+check notification is read => done
+check member is exits => stop call api => done
+dont have permission to view board => show toast => render UI (thinking) => done
+update layout root (header) => done
+get detail user => done
+when drag card to other board, the card is not update (check state of board (card)) => done
+open card detail has bug => done
+click in user member => detail profile in new page => done
+rename card has bug when drag card => done
+
+//bug
+check valid link
+
+//core
+detail of card (show in modal)
+crud detail of card
+update role of member
+public/ private board
+leave board
+
+
+search boards
+
+filter board
+
+
+// chat
+chat with member
+chat with member api
+
+//optimize 
+split code to component
+check code to solid
+dragging card close create card
+reponsive
+
+// expand
+multi language
+light/dark mode
+
+
+
